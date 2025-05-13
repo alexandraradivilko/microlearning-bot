@@ -44,3 +44,4 @@ class MessageTemplateDto:
 
     def __repr__(self):
         return f"MessageTemplateDto(content={self._content}, id={self._id})"
+
